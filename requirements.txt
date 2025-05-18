@@ -1,0 +1,6 @@
+streamlit
+numpy
+Pillow
+qrcode
+face_recognition
+# Add any other packages if you've used them implicitly
